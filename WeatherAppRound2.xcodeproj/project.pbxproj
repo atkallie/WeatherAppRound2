@@ -12,6 +12,7 @@
 		BA9CCD261E18DEE00051860F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA9CCD241E18DEE00051860F /* Main.storyboard */; };
 		BA9CCD281E18DEE00051860F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA9CCD271E18DEE00051860F /* Assets.xcassets */; };
 		BA9CCD2B1E18DEE00051860F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA9CCD291E18DEE00051860F /* LaunchScreen.storyboard */; };
+		BA9CCD331E18DEFB0051860F /* SunnyValley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA9CCD321E18DEFB0051860F /* SunnyValley.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BA9CCD271E18DEE00051860F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA9CCD2A1E18DEE00051860F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA9CCD2C1E18DEE00051860F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA9CCD321E18DEFB0051860F /* SunnyValley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SunnyValley.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		BA9CCD1F1E18DEE00051860F /* WeatherAppRound2 */ = {
 			isa = PBXGroup;
 			children = (
+				BA9CCD321E18DEFB0051860F /* SunnyValley.jpg */,
 				BA9CCD201E18DEE00051860F /* AppDelegate.swift */,
 				BA9CCD221E18DEE00051860F /* ViewController.swift */,
 				BA9CCD241E18DEE00051860F /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA9CCD331E18DEFB0051860F /* SunnyValley.jpg in Resources */,
 				BA9CCD2B1E18DEE00051860F /* LaunchScreen.storyboard in Resources */,
 				BA9CCD281E18DEE00051860F /* Assets.xcassets in Resources */,
 				BA9CCD261E18DEE00051860F /* Main.storyboard in Resources */,
